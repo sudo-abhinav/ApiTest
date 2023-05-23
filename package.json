@@ -4,7 +4,7 @@
   "description": "learning-process",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [
     "expree",
